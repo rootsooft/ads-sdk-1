@@ -1,1 +1,2 @@
-# ads-sdk-1
+# ads-network-sdk
+A library for displaying ads from multiple ad networks
